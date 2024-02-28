@@ -1,0 +1,8 @@
+.bgMovie{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    background-color: var(--maniaBlack);
+    z-index: -1;
+    top:0
+}

@@ -1,0 +1,31 @@
+.allPageContent{
+    background-color: var(--maniaBlack);
+}
+.tableCss{
+    height: 50vh !important;
+}
+
+.searchInput{
+    background-color:  rgba(255, 255, 255, 0.06);
+    color: white;
+    border: .7px solid white ;
+}
+
+.addEditMovieBtn{
+    background-color: var(--maniaBlue);
+}
+
+.addMovieContainer{
+    background-color: rgba(255, 255, 255, 0.06);
+}
+
+.moviesContainer{
+    background-color: var(--maniaBlack);
+   overflow: scroll;
+   height: 30vh !important;
+   position: absolute;
+}
+
+.moviesTable{
+    background-color: rgba(255, 255, 255, 0.06);
+}

@@ -1,0 +1,6 @@
+.notification{
+    background-color: rgb(44, 40, 40);
+    z-index: 12;
+    border: .3px solid rgba(255, 255, 255, 0.21);
+
+}

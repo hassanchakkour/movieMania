@@ -1,0 +1,43 @@
+.pageColor { 
+    background-color: var(--maniaBlack);
+    height: 135vh;
+}
+.userInfo { 
+    margin-left: 20% !important;
+    margin-top: 4% !important;
+}
+.childUser { 
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 5px 30px 5px 30px;
+}
+.changeBtn { 
+    background-color: #E50915;
+    padding: 10px 50px 10px 50px;
+    border: 1px solid black;
+    border-radius: 15px;
+    color: white;
+    margin-left: 10px;
+}
+.childBundle{ 
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 5px 40px 30px 40px;
+}
+.bundle{ 
+    position: absolute;
+    margin-top: -45%;
+    margin-left: 35%;
+}
+.submitBtn { 
+    background-color: #E50915;
+    padding: 10px 50px 10px 50px;
+    border: 1px solid white;
+    border-radius: 15px;
+    color: white;
+    margin-top: 60px;
+    text-align: center;
+    margin-left: 45%;
+}

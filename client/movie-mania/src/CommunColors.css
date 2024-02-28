@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root{
+    --maniaBlack: #1E1E1E;
+    --maniaWhite: #FFFFFF;
+    --maniaGreen: #29b537;
+    --maniaBlue:   #3B82F6;
+    --maniaLightBlue: #abc6f2;
+}

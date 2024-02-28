@@ -1,0 +1,22 @@
+.bigContainer{
+    background-color: var(--maniaBlack);
+}
+
+/* .card{
+
+} */
+.card:hover .price {
+    background-color: #92b8f5;
+}
+
+.SubscribeButton:hover{
+    /* color: var(--maniaWhite); */
+    /* background-color: var(--maniaBlue); */
+}
+
+.SubscribeButton{
+    color: var(--maniaWhite);
+    background-color: var(--maniaGreen);
+    border-color: var(--maniaGreen);
+}
+

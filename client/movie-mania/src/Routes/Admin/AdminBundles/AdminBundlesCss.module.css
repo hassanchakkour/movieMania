@@ -1,0 +1,37 @@
+
+.allContentContainer{
+    background-color: var(--maniaBlack);
+}
+
+.tableElement{
+    border-bottom: 0.2px solid rgba(0, 0, 0, 0.207);
+}
+
+.tableCss{
+    height: 50vh !important;
+}
+
+.bundlesTable{
+    background-color: rgba(255, 255, 255, 0.025) !important;
+}
+
+.searchInput{
+    background-color:  rgba(255, 255, 255, 0.06);
+    color: white;
+    border: .7px solid white ;
+}
+
+.addDeleteBundles{
+    background-color: rgba(255, 255, 255, 0.025) !important;
+}
+
+.addEditBundleBtn{
+    background-color: var(--maniaBlue);
+}
+
+@media screen  and (max-width: 700px ){
+    .contentOfThePage{
+        display: flex;
+        flex-direction: column;
+    }
+}
